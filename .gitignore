@@ -1,0 +1,17 @@
+# macOS 시스템 파일
+.DS_Store
+
+# Python 가상환경
+sprint_part4/
+venv/
+env/
+
+# Python 컴파일 파일
+__pycache__/
+*.pyc
+
+# Jupyter 노트북 체크포인트
+.ipynb_checkpoints/
+
+# VSCode 설정
+.vscode/
